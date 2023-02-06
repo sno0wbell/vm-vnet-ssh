@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+brandon-key
+brandon-key.pub
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
